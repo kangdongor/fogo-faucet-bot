@@ -1,0 +1,2 @@
+http://123.456.78.90:8080
+http://username:password@proxy.example.com:3128
